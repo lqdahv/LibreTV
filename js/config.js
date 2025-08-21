@@ -34,8 +34,7 @@ name: 'ysj',
         hsck: {
 api: 'https://hsckzy888.com/api.php/provide/vod',
 name: 'hsck',
-detail: https://hsckzy888.com,
-},
+}
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
