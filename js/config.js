@@ -27,6 +27,15 @@ api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
 name: '电影天堂资源',
 detail: 'http://caiji.dyttzyapi.com',
 },
+        ysj: {
+api: 'https://www.xrbsp.com/api/xml.php',
+name: 'ysj',
+},
+        hsck: {
+api: 'https://hsckzy888.com/api.php/provide/vod/at/xml/',
+name: 'hsck',
+
+},
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
