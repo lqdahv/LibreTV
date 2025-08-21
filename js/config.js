@@ -27,14 +27,16 @@ api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
 name: '电影天堂资源',
 detail: 'http://caiji.dyttzyapi.com',
 },
-        ysj: {
-api: 'https://www.xrbsp.com/api/xml.php',
-name: 'ysj',
+    myzyz: {
+api: 'https://api.maoyanapi.top/api.php/provide/vod',
+name: '猫眼资源',
+detail: 'https://api.maoyanapi.top',
 },
-        hsck: {
-api: 'https://hsckzy888.com/api.php/provide/vod',
-name: 'hsck',
-}
+        tyys: {
+api: 'https://tyyszyapi.com/api.php/provide/vod',
+name: '天涯影视',
+detail: 'https://tyyszyapi.com',
+},
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
